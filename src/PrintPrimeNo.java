@@ -14,7 +14,10 @@ public class PrintPrimeNo
             int count =0;
             for (int start=1;start <=i;start++)
             {
-                if (i%start==0){count++;}
+                if (i%start==0)
+                {
+                    count++;
+                }
             }
 
             if (count==2)
