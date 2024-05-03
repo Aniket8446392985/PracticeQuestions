@@ -48,7 +48,7 @@ public class CodeAskedInSapient {
                         count++;
                     }
                 }
-                System.out.println("colour is : "+ one + " its count is: "+count) ;
+                System.out.println("colour is : "+ one + " its count is: "+count) ; System.out.println("colour is : "+ one + " its count is: "+count) ;
             }
 
         }
